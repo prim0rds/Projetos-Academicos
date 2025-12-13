@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1764019263 source:c:\projeto faculdade - c\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
+1764192247 source:c:\sistema de gerenciamento de livro em c\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
